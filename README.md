@@ -5,7 +5,7 @@ I'm a passionate full-stack developer from Indonesia 🇮🇩
 - 🔭 I’m currently working on freelance web projects  
 - 🌱 I’m currently learning React, TypeScript, and Docker  
 - 💬 Ask me about JavaScript, Node.js, and APIs  
-- 📫 How to reach me: ilham@example.com  
+- 📫 How to reach me: zulfanjoula5@gmail.com  
 - ⚡ Fun fact: I love building side projects and automating tasks
 
 ## 🧰 Tech Stack
@@ -15,9 +15,10 @@ I'm a passionate full-stack developer from Indonesia 🇮🇩
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ## 📊 GitHub Stats
-![Ilham's GitHub stats](https://personal-website-react-jo-hoop-671z.vercel.app)
+![zulfanjoula's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfanjoula&show_icons=true&theme=radical)
 
-## 📌 Pinned Projects
-Check out my top projects below ↓ (bisa dipin manual di halaman profil)
+## 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfanjoula&layout=compact&theme=radical)
+
 
 
