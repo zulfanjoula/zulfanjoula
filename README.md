@@ -21,11 +21,12 @@ I'm a passionate full-stack developer from Indonesia 🇮🇩
 
 ## 📊 GitHub Stats
 
-![Zulfanjoula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zulfanjoula&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zulfanjoula&theme=radical)
 
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfanjoula&layout=compact&theme=radical)
+## 🏆 Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=zulfanjoula&theme=radical&no-frame=true&no-bg=true)
+
 
 
 
