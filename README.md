@@ -20,10 +20,12 @@ I'm a passionate full-stack developer from Indonesia 🇮🇩
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
-![zulfanjoula's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfanjoula&show_icons=true&theme=radical)
+
+![Zulfanjoula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zulfanjoula&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zulfanjoula&theme=radical)
 
 ## 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfanjoula&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfanjoula&layout=compact&theme=radical)
 
 
 
