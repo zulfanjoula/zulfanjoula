@@ -23,9 +23,15 @@ I'm a passionate full-stack developer from Indonesia 🇮🇩
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zulfanjoula&theme=radical)
 
-## 🏆 Trophy
+## 🚀 5. Activity Graph
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=zulfanjoula&theme=radical&no-frame=true&no-bg=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zulfanjoula&theme=dracula)
+
+##✨ 8. Quote-of-the-Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 
