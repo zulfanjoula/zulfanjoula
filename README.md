@@ -67,33 +67,11 @@ Hands-on practice with networking, Linux, reconnaissance, and security tools.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zulfanjoula&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfanjoula&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=zulfanjoula&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zulfanjoula&theme=tokyo-night&hide_border=true">
 
 </div>
 
