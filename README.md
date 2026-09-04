@@ -89,16 +89,6 @@ Hands-on practice with networking, Linux, reconnaissance, and security tools.
 
 ---
 
-## 📈 Activity
-
-<div align="center">
-
-[![Zulfanjoula's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zulfanjoula&theme=tokyo-night&hide_border=true)](https://github.com/zulfanjoula)
-
-</div>
-
----
-
 ## 🎯 Currently Learning
 
 ```text
